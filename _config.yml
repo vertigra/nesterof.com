@@ -34,7 +34,7 @@ sass:
 url: null
 baseurl: null
 title: How ToDo everything
-description: My short notes about everything.
+description: My short notes about everything
 keywords: 'debian,xen,linux,blog'
 author:
   name: Nesterov Alexey
