@@ -1,5 +1,5 @@
 ---
-title: Как установить Pritunl (Панель управления OpenVPN сервером)
+title: "Как установить Pritunl (панель управления OpenVPN сервером)"
 layout: post
 categories: OpenVPN
 tags: linux, openvpn
