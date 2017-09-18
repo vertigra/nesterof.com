@@ -1,5 +1,5 @@
 ---
-title: "Как установить Pritunl (панель управления OpenVPN сервером)"
+title: Как установить Pritunl (панель управления OpenVPN сервером)
 layout: post
 categories: OpenVPN
 tags: linux, openvpn
@@ -7,7 +7,7 @@ tags: linux, openvpn
 
 > OC: Debian 8 Jessie*
 
-Все собствено написано [тут](https://docs.pritunl.com/v1/docs/installation)
+Все написано [тут](https://docs.pritunl.com/v1/docs/installation)
 
 Добавить в `/etc/apt/sources.list.d/mongodb-org-3.2.list`
 
