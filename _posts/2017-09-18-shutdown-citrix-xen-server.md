@@ -1,5 +1,5 @@
 ---
-title: "Как правильно выключить Citrix Xen Server"
+title: Как правильно выключить Citrix Xen Server
 layout: post
 categories: XenServer
 tags: xenserver
