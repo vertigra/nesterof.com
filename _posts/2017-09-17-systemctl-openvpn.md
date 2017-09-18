@@ -2,7 +2,7 @@
 title: Как управлять OpenVPN демоном
 layout: post
 categories: OpenVPN
-tags: linux, openvpn
+tags: linux openvpn debian
 ---
 
 > OC: Debian 8 Jessie

@@ -2,7 +2,7 @@
 title: Как назначить права на директорию и файл БД Firebird
 layout: post
 categories: Firebird
-tags: linux, firebird
+tags: linux firebird debian
 ---
 
 > OC: Debian 8 Jessie (x64)

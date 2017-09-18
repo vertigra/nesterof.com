@@ -2,7 +2,7 @@
 title: Как сделать привязку IP к сертификату клиента OpenVPN
 layout: post
 categories: OpenVPN
-tags: linux, openvpn
+tags: linux openvpn debian
 ---
 
 Для привязки ip к сертификату клиента, необходимо:

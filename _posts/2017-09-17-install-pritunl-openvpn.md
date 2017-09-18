@@ -2,7 +2,7 @@
 title: Как установить Pritunl (панель управления OpenVPN сервером)
 layout: post
 categories: OpenVPN
-tags: linux, openvpn
+tags: linux openvpn debian
 ---
 
 > OC: Debian 8 Jessie*
