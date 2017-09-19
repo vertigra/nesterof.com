@@ -71,7 +71,7 @@ disqus:
   shortname: nesterof-com
   public_key: null
 google_analytics: null
-addthis_public_id: null
+addthis_public_id: ra-59c1a29328e870df
 paths:
   home: /
   blog: /blog/
