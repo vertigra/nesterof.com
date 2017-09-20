@@ -70,7 +70,7 @@ blog:
 disqus:
   shortname: nesterof-com
   public_key: null
-google_analytics: null
+google_analytics: UA-98112747-2
 addthis_public_id: ra-59c1a29328e870df
 paths:
   home: /
