@@ -39,6 +39,7 @@ ImportError: No module named mercurial
 И повторяем `$ ~/ExportToGit/fast-export/hg-fast-export.sh -r ~/ExportToGit/HgRepo`
 
 Если все хорошо, увидим отчет о выполнении в таком виде:
+
 ```
 nesterov_160718_sync_test_refact: Exporting simple delta revision 632/649 with 0/1/0 added/changed/removed files
 nesterov_160718_sync_test_refact: Exporting simple delta revision 633/649 with 0/1/0 added/changed/removed files
@@ -61,6 +62,7 @@ master: Exporting simple delta revision 649/649 with 0/0/1 added/changed/removed
 ```
 
 А в конце статистику экспорта
+
 ```
 Issued 649 commands
 git-fast-import statistics:
