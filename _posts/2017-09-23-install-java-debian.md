@@ -3,6 +3,7 @@ title: Как установить Java
 layout: post
 categories: Java
 tags: java debian linux
+comments: true
 ---
 
 > OC: Debian 8 Jessie
