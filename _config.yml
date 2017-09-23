@@ -68,7 +68,7 @@ blog:
   cc_license_image: null
   footer_content: My short notes about everything.
 disqus:
-  shortname: "nesterof-com"
+  shortname: nesterof-com
   public_key: null
 google_analytics: UA-98112747-2
 addthis_public_id: ra-59c1a29328e870df

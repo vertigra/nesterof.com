@@ -67,13 +67,12 @@ layout: blog
                 </div>
             </footer>
             <div class="misc-content">
-			
                 {% if site.disqus.shortname and page.comments != false %}
-                    {% include common/disqus.html %}
+				{% include common/disqus.html %}
                     <div class="comments">
                         <button class="center-block show-hidden" title="{{ site.data.i18n[site.lang].show_comments }}" data-disqus-url="{{ page.url | absolute_url }}">{{ site.data.i18n[site.lang].show_comments }}</button>
                         <div id="disqus_thread"></div>
-						<script data-cfasync="false" src="include common/disqus.html"></script>
+						<script data-cfasync="false" type="text/javascript">
                     </div>
                 {% endif %}
             </div>
