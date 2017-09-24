@@ -32,7 +32,7 @@ kramdown:
 sass:
   style: compressed
 url: "https://nesterof.com"
-baseurl: "/blog"
+baseurl: ""
 title: How ToDo everything
 description: My short notes about everything
 keywords: 'debian,xen,linux,blog'
