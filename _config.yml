@@ -31,7 +31,7 @@ kramdown:
   toc_levels: 1..3
 sass:
   style: compressed
-url: https://nesterof.com
+url: "https://nesterof.com"
 baseurl: ""
 title: How ToDo everything
 description: My short notes about everything
