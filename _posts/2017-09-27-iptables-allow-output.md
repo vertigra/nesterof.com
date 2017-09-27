@@ -15,7 +15,7 @@ tags: iptables debian linux
 -A OUTPUT -j REJECT
 ```
 
-как [здесь](https://linux.nesterof.com/iptabes_with_openvpn_server.html), то разрешить **исходящий** трафик можно так:
+как [здесь](https://nesterof.com/blog/2017/09/27/iptables-setting-openvpn/), то разрешить **исходящий** трафик можно так:
 
 ```
 # Allow TCP output traffic on port 2500.
