@@ -16,8 +16,8 @@ kramdown:
   
 sass:
   style: compressed
-  
-url: "http://nesterof.com"
+
+url: http://nesterof.com
 baseurl: 
 title: How ToDo everything
 description: My short notes about everything
