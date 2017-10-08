@@ -2,7 +2,7 @@
 title: Как отключить IPv6 в Debian 8 Jessie
 layout: post
 categories: Other
-tag: debian linux ipv6
+tags: debian linux ipv6
 ---
 
 >OC: Debian 8 Jessie
