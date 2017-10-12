@@ -119,7 +119,7 @@ mute 20
 # iptables-restore < /etc/iptables/rules.v4
 ```
 
-Включаем автоматический запуск OpenVPN сервера при старте и запуск демона.
+Включаем автоматический запуск OpenVPN при загрузке и запускаем демон.
 ```
 # systemctl enable openvpn.service
 # systemctl start openvpn.service
