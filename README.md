@@ -153,4 +153,3 @@ The theme is available as open source under the terms of the
 
 [Jekyll]: http://jekyllrb.com/
 [Bunlder]: http://bundler.io/
-
